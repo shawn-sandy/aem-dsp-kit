@@ -4,6 +4,22 @@
   "last_updated": "2020-10-07T21:11:34.145Z",
   "entities": [
     {
+      "id": "e63648bc-15c7-4be6-8a91-3120fb9df2fd",
+      "class": "component",
+      "type": "page",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "aem-block-text-basic",
+        "languages": {
+          "html": "<div data-sly-unwrap=\"${wcmmode.disabled}\">\n\t<div data-sly-test=\"${wcmmode.edit}\" class=\"alert alert-primary\">\n\t\t<!--/* Customize title and text to provide instructions for developers */-->\n\t\t<h4>Developer Mode Only</h4>\n\t\t<p>\n\t\t\tEnergistically morph high-quality deliverables rather than covalent strategic theme areas. Dramatically target\n\t\t\tfunctionalized deliverables rather than prospective strategic theme areas. Rapidiously communicate team building\n\t\t\te-markets for next-generation e-services. Intrinsicly fabricate covalent initiatives and high-payoff leadership\n\t\t\tskills. Monotonectally expedite frictionless metrics with low-risk high-yield niches.\n\t\t</p>\n\t</div>\n\t<div\n\t\tdata-sly-resource=\"${'component-title' @ resourceType='/apps/digital-platform/components/content/title'}\"\n\t\tclass=\"component-title\"\n\t></div>\n\t<div>\n\t\t<div\n\t\t\tdata-sly-resource=\"${'component-desc' @ resourceType='/apps/digital-platform/components/content/text'}\"\n\t\t\tclass=\"component-desc\"\n\t\t></div>\n\t</div>\n</div>"
+        }
+      },
+      "name": "Aem/blocks/editor-basic",
+      "tags": [],
+      "last_updated": "2020-11-02T12:09:14.961Z",
+      "last_updated_by": ""
+    },
+    {
       "id": "aba19fde-4f56-4b68-8942-4e9c6eefebba",
       "class": "component",
       "type": "page",
