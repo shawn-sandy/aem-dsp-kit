@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 15 Oct 2020 15:18:06 GMT
+ * Generated on Thu, 29 Oct 2020 01:07:19 GMT
  */
 
 export const InfoDisable67C3D0 = "#67c3d0";
@@ -47,28 +47,8 @@ export const Display2WhiteHelveticaNeue88PtFamily = "HelveticaNeue-Light";
 export const Display2WhiteHelveticaNeue88PtStyle = "Light";
 export const Display3WhiteHelveticaNeue72PtFamily = "HelveticaNeue-Light";
 export const Display3WhiteHelveticaNeue72PtStyle = "Light";
-export const H6HelveticaNeue16PtFamily = "HelveticaNeue-Medium";
-export const H6HelveticaNeue16PtStyle = "";
 export const Display1WhiteHelveticaNeue96PtFamily = "HelveticaNeue-Light";
 export const Display1WhiteHelveticaNeue96PtStyle = "Light";
-export const H5HelveticaNeue20PtFamily = "HelveticaNeue-Medium";
-export const H5HelveticaNeue20PtStyle = "";
-export const H4HelveticaNeue24PtFamily = "HelveticaNeue-Medium";
-export const H4HelveticaNeue24PtStyle = "";
-export const H1HelveticaNeue40PtFamily = "HelveticaNeue-Medium";
-export const H1HelveticaNeue40PtStyle = "";
-export const H3HelveticaNeue28PtFamily = "HelveticaNeue-Medium";
-export const H3HelveticaNeue28PtStyle = "";
-export const H2HelveticaNeue32PtFamily = "HelveticaNeue-Medium";
-export const H2HelveticaNeue32PtStyle = "";
-export const Display3HelveticaNeue72PtFamily = "HelveticaNeue-Light";
-export const Display3HelveticaNeue72PtStyle = "";
-export const Display4HelveticaNeue56PtFamily = "HelveticaNeue-Light";
-export const Display4HelveticaNeue56PtStyle = "";
-export const Display1HelveticaNeue96PtFamily = "HelveticaNeue-Light";
-export const Display1HelveticaNeue96PtStyle = "";
-export const Display2HelveticaNeue88PtFamily = "HelveticaNeue-Light";
-export const Display2HelveticaNeue88PtStyle = "";
 export const H6WhiteHelveticaNeue16PtSize = "16rem";
 export const H5WhiteHelveticaNeue20PtSize = "20rem";
 export const H4WhiteHelveticaNeue24PtSize = "24rem";
@@ -78,14 +58,4 @@ export const Display4WhiteHelveticaNeue56PtSize = "56rem";
 export const H2WhiteHelveticaNeue32PtSize = "32rem";
 export const Display2WhiteHelveticaNeue88PtSize = "88rem";
 export const Display3WhiteHelveticaNeue72PtSize = "72rem";
-export const H6HelveticaNeue16PtSize = "16rem";
 export const Display1WhiteHelveticaNeue96PtSize = "96rem";
-export const H5HelveticaNeue20PtSize = "20rem";
-export const H4HelveticaNeue24PtSize = "24rem";
-export const H1HelveticaNeue40PtSize = "40rem";
-export const H3HelveticaNeue28PtSize = "28rem";
-export const H2HelveticaNeue32PtSize = "32rem";
-export const Display3HelveticaNeue72PtSize = "72rem";
-export const Display4HelveticaNeue56PtSize = "56rem";
-export const Display1HelveticaNeue96PtSize = "96rem";
-export const Display2HelveticaNeue88PtSize = "88rem";

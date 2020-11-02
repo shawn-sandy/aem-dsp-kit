@@ -4,6 +4,38 @@
   "last_updated": "2020-10-07T21:11:34.145Z",
   "entities": [
     {
+      "id": "aba19fde-4f56-4b68-8942-4e9c6eefebba",
+      "class": "component",
+      "type": "page",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "aem-component-include",
+        "languages": {
+          "html": "<div data-sly-resource=\"${'main-nav' @ resourceType='/apps/myapp/components/structure/main-nav'}\"></div>"
+        }
+      },
+      "name": "Aem/componet-include",
+      "tags": [],
+      "last_updated": "2020-10-29T02:46:48.283Z",
+      "last_updated_by": ""
+    },
+    {
+      "id": "03fb34dd-bb04-42d8-973b-6cc23d5b113e",
+      "class": "component",
+      "type": "page",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "aem-wrap",
+        "languages": {
+          "html": "<div data-sly-unwrap=\"${wcmmode}\">\n    <!--* add code below this line *-->\n</div>"
+        }
+      },
+      "name": "Aem/unwrap",
+      "tags": [],
+      "last_updated": "2020-10-29T02:26:18.223Z",
+      "last_updated_by": ""
+    },
+    {
       "class": "component",
       "type": "page",
       "tags": [
@@ -2876,6 +2908,34 @@
         "sync": true
       },
       "description": "# Navbar\nDocumentation and examples for Bootstrap’s powerful, responsive navigation header, the navbar. Includes support for branding, navigation, and more, including support for our collapse plugin.\n\n# Support\n\n- [HTML](https://getbootstrap.com/docs/4.5/components/navbar/)\n- [React](https://react-bootstrap.github.io/components/navbar/)"
+    },
+    {
+      "id": "56127be6-92f6-48fb-a2dd-869980c20b1f",
+      "class": "component",
+      "type": "page",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "New component",
+      "tags": [],
+      "last_updated": "2020-10-29T00:44:33.304Z",
+      "last_updated_by": ""
+    },
+    {
+      "id": "f272e0df-e481-4edc-ac87-1a3f0f1f8db9",
+      "class": "component",
+      "type": "page",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "New component",
+      "tags": [],
+      "last_updated": "2020-10-29T01:09:50.742Z",
+      "last_updated_by": ""
     },
     {
       "class": "component",

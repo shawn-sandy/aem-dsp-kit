@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/foxbox-digital/bootstrap-dsp/issues"
   },
-  "homepage": "https://github.com/foxbox-digital/bootstrap-dsp#readme"
+  "homepage": "https://github.com/foxbox-digital/bootstrap-dsp#readme",
+  "dependencies": {
+    "style-dictionary": "^2.10.2"
+  }
 }
